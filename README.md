@@ -16,3 +16,8 @@ All directories are as detailed as possible based on the directory on the iPhone
 
 Based on that Detail, there are 3 main part. So, we decide to make the structure as a telegram representation installed on iOS devices 
 ![Image of Structure](https://raw.githubusercontent.com/Am1nCmd/iOS-Telegram-Discovery/master/Structure.PNG)
+
+We have found telegram chat IDs as well as media sent / received directories is available on 
+/ (root of iPhone)/var/mobile/Containers/Shared/AppGroup/03AF7D9A-08C0-45F4-AB3F-BE0B152DD363/AppGroups/telegram-data/account-2885063770612599369/postbox/ <here>
+
+But every chat data and media is encrypted.
