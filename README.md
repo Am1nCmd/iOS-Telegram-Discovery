@@ -4,7 +4,7 @@ As part of this paper, aims to identify all artifacts generated from Telegram on
 
 ![Image of Detail](https://raw.githubusercontent.com/Am1nCmd/iOS-Telegram-Discovery/master/Detail.PNG)
 
-All Data can be downloaded here:
+All Data can be [downloaded here]( https://github.com/Am1nCmd/iOS-Telegram-Discovery/releases/download/1.0/root.of.iPhone.zip)
 - Bundle.zip
 - Data.zip
 - App Groups
